@@ -7,6 +7,10 @@ import robocode.*;
 /**
  * PierwszyGówniak - a robot by (your name here)
  * test modification
+ *
+ *
+ *
+ *
  */
 public class PierwszyGówniak extends Robot
 {
