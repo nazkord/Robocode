@@ -1,1 +1,58 @@
+package pierwszygowniak;
+import robocode.*;
+//import java.awt.Color;
 
+// API help : http://robocode.sourceforge.net/docs/robocode/robocode/Robot.html
+
+/**
+ * PierwszyGówniak - a robot by (your name here)
+ */
+public class PierwszyGówniak extends Robot
+{
+	/**
+	 * run: PierwszyGówniak's default behavior
+	 */
+	public void run() {
+         while (true) {
+             ahead(100);
+             turnGunRight(360);
+             back(100);
+             turnGunRight(360);
+         }
+		}
+  
+	/**
+	 * onScannedRobot: What to do when you see another robot
+	 */
+	public void onScannedRobot(ScannedRobotEvent e) {
+		// Replace the next line with any behavior you would like
+		fire(1);
+	}
+
+	/**
+	 * onHitByBullet: What to do when you're hit by a bullet
+	 */
+	public void onHitByBullet(HitByBulletEvent e) {
+		// Replace the next line with any behavior you would like
+		ahead(100);
+		fire(1);
+		turnRight(90);
+		fire(1);
+		ahead(100);
+		fire(1);
+		turnRight(90);
+		
+		
+	}
+	
+	/**
+	 * onHitWall: What to do when you hit a wall
+	 */
+	public void onHitWall(HitWallEvent e) {
+		// Replace the next line with any behavior you would like
+			ahead(100);
+			turnGunRight(360);
+			back(100);
+			turnGunRight(360);
+	}	
+}
