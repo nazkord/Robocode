@@ -1,0 +1,139 @@
+Title text="1602271809 - Zadania konkursowe Div"
+Version maj=0 min=1
+Created date=1456592962
+Mission base="custom" dir="Diversity2016" rank=1
+Map zoom=2
+DoneResearch bits=2
+CreatePower angle=0;0 camera=4 energy=1 id=1 option=0 pos=-0.800000012;0.75;0 range=30 shield=0 type=NuclearCell zoom=1;1;1
+CreateObject a7=0;180;0 a9=0;180;0 angle=0;270;0 bVirusActive=0 camera=4 energy=1 id=0 motor=0;0 option=0 p6=-0.75;0.25;-0.75 p7=-0.75;0.25;0.75 p8=0.5;0.25;-0.75 p9=0.5;0.25;0.75 pos=-17.5;32;-27.5 programStorageIndex=0 range=30 reset=1 scriptReadOnly1=0 scriptRunnable1=1 select=1 trainer=1 type=PracticeBot zoom=1;1;1
+CreateObject a1=0;-11.4484482;0 a2=0;7.82187653;0 a3=0;14.2167654;0 a4=0;-27.8271141;0 aBusy=0 aProgressTime=0 aProgressTotal=1 aTime=7.07578897 aType=GreenFlag angle=-0;180;-0 camera=4 energy=1 id=2 option=0 p1=0.0375000015;1.25;0 p2=0.197500005;0 p3=0.197500005;0 p4=0.197500005;0 pos=-15;31.75;-27.5 range=30 type=GreenFlag zoom=1;1;1
+CreateObject angle=0;0 camera=4 energy=1 id=3 option=0 pos=-17.5;31.75;-27.5 range=30 type=StartArea zoom=1;1;1
+CreateObject angle=0;-0 camera=4 energy=1 id=4 option=0 pos=27.5;31.75;-7.5 range=30 type=WayPoint zoom=1;1;1
+CreateObject angle=0;0 camera=4 energy=1 id=5 option=0 pos=27.5;31.75;-7.5 range=30 type=GoalArea zoom=1;1;1
+CreateObject a1=0;90 aAngleYactual=0 aAngleYfinal=0 aAngleZactual=0 aAngleZfinal=0 aBusy=0 aExist=1 aPhase=2 aProgress=0.0165460631 aProgressTime=0 aProgressTotal=1 aSpeed=1 aTargetPos=0;0 aTime=7.07578897 aType=DefenseTower angle=0;0 camera=4 energy=1 id=6 option=0 p1=0;5;0 p2=1.125;0 pos=-27.5;31.5;-22.5 range=30 selectable=0 trainer=0 type=DefenseTower zoom=1;1;1
+CreateObject angle=0;5.69174004 camera=4 energy=1 id=7 option=0 pos=-27.5;31.5;-17.5 range=30 shield=0 type=Mine zoom=1;1;1
+CreateObject angle=0;5.69174004 camera=4 energy=1 id=8 option=0 pos=-27.5;31.5;-12.5 range=30 shield=0 type=Mine zoom=1;1;1
+CreateObject angle=0;5.69174004 camera=4 energy=1 id=9 option=0 pos=-27.5;31.5;-7.5 range=30 shield=0 type=Mine zoom=1;1;1
+CreateObject angle=0;5.69174004 camera=4 energy=1 id=10 option=0 pos=-27.5;31.5;-2.5 range=30 shield=0 type=Mine zoom=1;1;1
+CreateObject a1=0;90 aAngleYactual=0 aAngleYfinal=0 aAngleZactual=0 aAngleZfinal=0 aBusy=0 aExist=1 aPhase=2 aProgress=0.0165460631 aProgressTime=0 aProgressTotal=1 aSpeed=1 aTargetPos=0;0 aTime=7.07578897 aType=DefenseTower angle=0;0 camera=4 energy=1 id=11 option=0 p1=0;5;0 p2=1.125;0 pos=-27.5;31.5;22.5 range=30 selectable=0 trainer=0 type=DefenseTower zoom=1;1;1
+CreateObject angle=0;5.69174004 camera=4 energy=1 id=12 option=0 pos=-27.5;31.5;17.5 range=30 shield=0 type=Mine zoom=1;1;1
+CreateObject angle=0;5.69174004 camera=4 energy=1 id=13 option=0 pos=-27.5;31.5;12.5 range=30 shield=0 type=Mine zoom=1;1;1
+CreateObject angle=0;5.69174004 camera=4 energy=1 id=14 option=0 pos=-27.5;31.5;7.5 range=30 shield=0 type=Mine zoom=1;1;1
+CreateObject angle=0;5.69174004 camera=4 energy=1 id=15 option=0 pos=-27.5;31.5;2.5 range=30 shield=0 type=Mine zoom=1;1;1
+CreateObject a1=0;90 aAngleYactual=0 aAngleYfinal=0 aAngleZactual=0 aAngleZfinal=0 aBusy=0 aExist=1 aPhase=2 aProgress=0.0165460631 aProgressTime=0 aProgressTotal=1 aSpeed=1 aTargetPos=0;0 aTime=7.07578897 aType=DefenseTower angle=0;180;0 camera=4 energy=1 id=16 option=0 p1=0;5;0 p2=1.125;0 pos=27.5;31.75;-22.5 range=30 selectable=0 trainer=0 type=DefenseTower zoom=1;1;1
+CreateObject a1=0;90 aAngleYactual=0 aAngleYfinal=0 aAngleZactual=0 aAngleZfinal=0 aBusy=0 aExist=1 aPhase=2 aProgress=0.0165460631 aProgressTime=0 aProgressTotal=1 aSpeed=1 aTargetPos=0;0 aTime=7.07578897 aType=DefenseTower angle=0;180;0 camera=4 energy=1 id=17 option=0 p1=0;5;0 p2=1.125;0 pos=27.5;31.5;22.5 range=30 selectable=0 trainer=0 type=DefenseTower zoom=1;1;1
+CreateObject angle=0;-5.69174004 camera=4 energy=1 id=18 option=0 pos=27.5;31.5;17.5 range=30 shield=0 type=Mine zoom=1;1;1
+CreateObject angle=0;-5.69174004 camera=4 energy=1 id=19 option=0 pos=27.5;31.5;12.5 range=30 shield=0 type=Mine zoom=1;1;1
+CreateObject angle=0;-5.69174004 camera=4 energy=1 id=20 option=0 pos=27.5;31.5;7.5 range=30 shield=0 type=Mine zoom=1;1;1
+CreateObject angle=0;-5.69174004 camera=4 energy=1 id=21 option=0 pos=27.5;31.5;2.5 range=30 shield=0 type=Mine zoom=1;1;1
+CreateObject angle=0;-0 camera=4 energy=1 id=22 option=0 pos=27.5;31.75;-12.5 range=30 type=Firework zoom=1;1;1
+CreateObject angle=5.66386223;-5.66386223 camera=4 energy=1 id=23 option=0 pos=27.5;31.75;-2.5 range=30 type=Firework zoom=1;1;1
+CreateObject angle=0;72;0 camera=4 energy=1 id=24 option=0 pos=34.5;31.75;-5 range=30 type=Home zoom=1.29999995;1.29999995;1.29999995
+CreateFret angle=0;5.72957802;45.8366241 camera=4 energy=1 id=26 option=0 pos=0.425000012;-0.125;0.275000006 range=30 type=BlackBox zoom=1;1;1
+CreateObject a1=5.47160816;8.22819138;-23.6128769 a10=10;-25;0 a11=-9;5 a12=0;-9 a13=10;-4;8 a2=15.000001;50;-50.2832031 a3=45;-70;10 a4=-10;25;0 a5=9;4 a6=0;-9 a7=-11;4;8 a8=-15.000001;-50;-45.3771973 a9=-45;70;10 angle=0;133.258926;0 bVirusActive=0 camera=4 clip=0 energy=1 id=25 land=1 motor=0;0 option=2 p1=0;0.675000012;0 p10=0.300000012;0 p11=0;0.174999997 p12=0;-0.375;0 p13=0;-0.375;0 p2=0;0.574999988;-0.300000012 p3=0.324999988;0 p4=0.300000012;0 p5=0;-0.00427667284;-0.174999997 p6=0;-0.379276663;0 p7=0;-0.379276663;0 p8=0;0.574999988;0.300000012 p9=0.324999988;0 pos=34.5;32.625;-5 programStorageIndex=973 range=30 reactorRange=1 run=1 script1="%lvl%/tech.txt" scriptReadOnly1=1 scriptRunnable1=1 type=Tech z1=1;1.04999995;1 zoom=1;1;1
+CreateObject angle=-5.69174004;180;-4.98409747e-007 camera=4 energy=1 id=27 option=0 pos=-22.5;31.75;25 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-5.69174004;180;-4.98409747e-007 camera=4 energy=1 id=28 option=0 pos=-17.5;31.75;25 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-5.69174004;180;-4.98409747e-007 camera=4 energy=1 id=29 option=0 pos=-12.5;31.75;25 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-5.69174004;180;-4.98409747e-007 camera=4 energy=1 id=30 option=0 pos=-7.5;31.75;25 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-5.69174004;180;-4.98409747e-007 camera=4 energy=1 id=31 option=0 pos=-2.5;31.75;25 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-5.69174004;180;-4.98409747e-007 camera=4 energy=1 id=32 option=0 pos=2.5;31.75;25 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-5.69174004;180;-4.98409747e-007 camera=4 energy=1 id=33 option=0 pos=7.5;31.75;25 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-5.69174004;180;-4.98409747e-007 camera=4 energy=1 id=34 option=0 pos=12.5;31.75;25 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-5.69174004;180;-4.98409747e-007 camera=4 energy=1 id=35 option=0 pos=17.5;31.75;25 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-5.69174004;180;-4.98409747e-007 camera=4 energy=1 id=36 option=0 pos=22.5;31.75;25 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=37 option=0 pos=-25;31.75;22.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=38 option=0 pos=-20;31.75;22.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=39 option=0 pos=10;31.75;22.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=40 option=0 pos=15;31.75;22.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-5.69174004;270;-6.79854537e-008 camera=4 energy=1 id=41 option=0 pos=25;31.75;22.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=42 option=0 pos=7.5;31.75;20 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=43 option=0 pos=17.5;31.75;20 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=44 option=0 pos=-25;31.75;17.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=45 option=0 pos=-20;31.75;17.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=46 option=0 pos=-10;31.75;17.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;-0 camera=4 energy=1 id=47 option=0 pos=-7.5;31.75;17.5 range=30 shield=0 type=Mine zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=48 option=0 pos=-5;31.75;17.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=49 option=0 pos=5;31.75;17.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=50 option=0 pos=15;31.75;17.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=51 option=0 pos=20;31.75;17.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-5.69174004;270;-6.79854537e-008 camera=4 energy=1 id=52 option=0 pos=25;31.75;17.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=53 option=0 pos=-17.5;31.75;15 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=54 option=0 pos=-2.5;31.75;15 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=55 option=0 pos=17.5;31.75;15 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=56 option=0 pos=-25;31.75;12.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=57 option=0 pos=-20;31.75;12.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=58 option=0 pos=-10;31.75;12.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=59 option=0 pos=10;31.75;12.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=60 option=0 pos=15;31.75;12.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-5.69174004;270;-6.79854537e-008 camera=4 energy=1 id=61 option=0 pos=25;31.75;12.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=62 option=0 pos=-7.5;31.75;10 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=63 option=0 pos=-2.5;31.75;10 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=64 option=0 pos=7.5;31.75;10 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=65 option=0 pos=22.5;31.75;10 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=66 option=0 pos=-25;31.75;7.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=67 option=0 pos=0;31.75;7.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=68 option=0 pos=15;31.75;7.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=69 option=0 pos=20;31.75;7.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-5.69174004;270;-6.79854537e-008 camera=4 energy=1 id=70 option=0 pos=25;31.75;7.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=71 option=0 pos=-7.5;31.75;5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=72 option=0 pos=2.5;31.75;5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=73 option=0 pos=-25;31.75;2.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=74 option=0 pos=-10;31.75;2.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=75 option=0 pos=0;31.75;2.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=76 option=0 pos=5;31.75;2.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=77 option=0 pos=20;31.75;2.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-5.69174004;270;-6.79854537e-008 camera=4 energy=1 id=78 option=0 pos=25;31.75;2.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=79 option=0 pos=-17.5;31.75;0 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=80 option=0 pos=-25;31.75;-2.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=81 option=0 pos=-20;31.75;-2.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=82 option=0 pos=5;31.75;-2.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;-0 camera=4 energy=1 id=83 option=0 pos=12.5;31.75;-2.5 range=30 shield=0 type=Mine zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=84 option=0 pos=15;31.75;-2.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=85 option=0 pos=25;31.75;-2.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=86 option=0 pos=-12.5;31.75;-5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=87 option=0 pos=-2.5;31.75;-5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=88 option=0 pos=2.5;31.75;-5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=89 option=0 pos=22.5;31.75;-5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=90 option=0 pos=-25;31.75;-7.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=91 option=0 pos=-20;31.75;-7.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=92 option=0 pos=-15;31.75;-7.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;-0 camera=4 energy=1 id=93 option=0 pos=-12.5;31.75;-7.5 range=30 shield=0 type=Mine zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=94 option=0 pos=15;31.75;-7.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=95 option=0 pos=20;31.75;-7.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=96 option=0 pos=-7.5;31.75;-10 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=97 option=0 pos=-2.5;31.75;-10 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=98 option=0 pos=-25;31.75;-12.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=99 option=0 pos=-20;31.75;-12.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=100 option=0 pos=-15;31.75;-12.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=101 option=0 pos=-10;31.75;-12.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=102 option=0 pos=0;31.75;-12.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=103 option=0 pos=10;31.75;-12.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=104 option=0 pos=15;31.75;-12.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=105 option=0 pos=20;31.75;-12.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=106 option=0 pos=25;31.75;-12.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=107 option=0 pos=7.5;31.75;-15 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=108 option=0 pos=-25;31.75;-17.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=109 option=0 pos=-20;31.75;-17.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=110 option=0 pos=-10;31.75;-17.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=111 option=0 pos=-5;31.75;-17.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=112 option=0 pos=0;31.75;-17.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=113 option=0 pos=5;31.75;-17.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=114 option=0 pos=15;31.75;-17.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=115 option=0 pos=25;31.75;-17.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=116 option=0 pos=-12.5;31.75;-20 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=117 option=0 pos=2.5;31.75;-20 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=118 option=0 pos=7.5;31.75;-20 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=119 option=0 pos=12.5;31.75;-20 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=120 option=0 pos=-25;31.75;-22.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=121 option=0 pos=-5;31.75;-22.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=0;-0 camera=4 energy=1 id=122 option=0 pos=7.5;31.75;-22.5 range=30 shield=0 type=Mine zoom=1;1;1
+CreateObject angle=0;270;-0 camera=4 energy=1 id=123 option=0 pos=25;31.75;-22.5 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=124 option=0 pos=-22.5;31.75;-25 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=125 option=0 pos=-12.5;31.75;-25 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=126 option=0 pos=-7.5;31.75;-25 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=127 option=0 pos=-2.5;31.75;-25 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=128 option=0 pos=2.5;31.75;-25 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=129 option=0 pos=7.5;31.75;-25 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=130 option=0 pos=12.5;31.75;-25 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=131 option=0 pos=17.5;31.75;-25 range=30 type=Barrier1 zoom=1;1;1
+CreateObject angle=-0;180;-0 camera=4 energy=1 id=132 option=0 pos=22.5;31.75;-25 range=30 type=Barrier1 zoom=1;1;1

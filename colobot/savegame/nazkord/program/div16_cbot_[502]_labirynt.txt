@@ -1,0 +1,96 @@
+extern void object::firstStep()
+{
+	move(5);
+	main();
+}
+
+void main() {
+	while(true) {
+		int i = turnright();
+		if (i == 1) {
+			continue;
+		}
+		else {
+			i = turnstright();
+			if (i == 1) {
+				continue;
+			}
+			else {
+				i = turnleft();
+				if (i == 1) {
+					continue;
+				}
+				else {
+					i = turnback();
+					if (i == 1) {
+						continue;
+					}
+				}
+			}
+			
+		}
+	}
+}
+
+
+int turnright()
+{
+	turn(-90);
+	int finder[2];
+	finder[0] = Barrier;
+	finder[1] = Mine;
+	object barrier = radar(finder,0,45,0,5);
+	if (barrier == null){
+		move(5);
+		return(1);
+	}
+	else {
+		turn(90);
+		return(0);
+	}
+}
+
+int turnstright()
+{
+	turn(0);
+	int finder[2];
+	finder[0] = Barrier;
+	finder[1] = Mine;
+	object barrier = radar(finder,0,45,0,5);
+	if (barrier == null){
+		move(5);
+		return(1);
+	}
+	else {
+		return(0);
+	}
+}
+
+int turnleft()
+{
+	turn(90);
+	int finder[2];
+	finder[0] = Barrier;
+	finder[1] = Mine;
+	object barrier = radar(finder,0,45,0,5);
+	if (barrier == null){
+		move(5);
+		return(1);
+	}
+	else {
+		turn(-90);
+		return(0);
+	}
+}
+int turnback()
+{
+	turn(180);
+	int finder[2];
+	finder[0] = Barrier;
+	finder[1] = Mine;
+	object barrier = radar(finder,0,45,0,5);
+	if (barrier == null){
+		move(5);
+		return(1);
+	}
+}

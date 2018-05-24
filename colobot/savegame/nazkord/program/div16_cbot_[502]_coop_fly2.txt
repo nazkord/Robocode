@@ -1,0 +1,65 @@
+extern void object::Wspolpraca()
+{
+	Titan();
+	Reheal();
+	Uran();
+	Titan1();
+}
+
+void Titan() {
+	int i = 1;
+	while (i<=5) {
+		object item = radar(Derrick);
+		goto(item.position);
+		grab();
+		move(-5);
+		item = radar(RedFlag);
+		goto(item.position);
+		turn(-90);
+		move(i+2);
+		turn(90);
+		drop();
+		i += 1;
+	}
+}
+
+void Reheal() {
+	object item = radar(PowerStation);
+	goto(item.position);
+	wait(5);
+}
+
+void Uran() {
+	object item = radar(UraniumOre);
+	goto(item.position);
+	grab();
+	item = radar(NuclearPlant);
+	goto(item.position);
+	drop();
+	move(-5);
+	wait(35);
+	move(5);
+	grab();item = radar(BlueFlag);
+	goto(item.position);
+	move(5);
+	drop();
+}
+
+void Titan1() {
+	object item = radar(TitaniumOre);
+	goto(item.position);
+	grab();
+	item = radar(Converter);
+	goto(item.position);
+	drop();
+	move(-5);
+	wait(15);
+	move(5);
+	grab();
+	item = radar(BlueFlag);
+	goto(item.position);
+	turn(-90);
+	move(7);
+	turn(90);
+	drop();
+}

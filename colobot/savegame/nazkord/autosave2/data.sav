@@ -1,0 +1,193 @@
+Title text="[AUTOSAVE] 03.05.16 10:12 pm"
+Version maj=0 min=1
+Created date=1457212324
+Mission base="custom" dir="Diversity2016" rank=2
+Map zoom=2
+DoneResearch bits=2
+CreateObject a1=0;1.8345747;0 a2=0;-16.5732479;0 a3=0;14.7225971;0 a4=0;12.3051748;0 aBusy=0 aProgressTime=0 aProgressTotal=1 aTime=299.9953 aType=BlueFlag angle=0;180;0 camera=4 energy=1 id=0 option=0 p1=0.0375000015;1.25;0 p2=0.197500005;0 p3=0.197500005;0 p4=0.197500005;0 pos=0;27.75;0 range=30 type=BlueFlag zoom=1;1;1
+CreatePower angle=0;0 camera=4 energy=0.919623554 id=2 option=0 pos=-0.800000012;0.75;0 range=30 shield=0 type=PowerCell zoom=1;1;1
+CreateObject a1=0;110 a2=0;-130 a3=90;-50 a4=0;-18 a5=0;18 a6=0;-4.40841771e-037 a7=0;120.000008;-4.40841771e-037 a8=0;-120.000008;-4.40841771e-037 angle=0;34.72258;0 bVirusActive=0 camera=4 energy=1 id=1 land=0 motor=0.0591297299;-7.51018524e-006 option=0 p1=0;1.32500005;0 p2=1.25;0 p3=0.875;0 p4=0.375;0 p5=0.375;0 p6=0.425000012;0.75;0 p7=-0.449999988;0.75;-0.375 p8=-0.449999988;0.75;0.375 pos=87.2263107;40.4130249;-38.0797615 programStorageIndex=1 range=30 reactorRange=0.493567288 run=1 scriptReadOnly1=0 scriptRunnable1=1 trainer=1 type=WingedGrabber zoom=1;1;1
+CreateFret angle=0;90 camera=4 energy=1 id=19 option=0 pos=1.17499995;0 range=30 type=UraniumOre zoom=1;1;1
+CreatePower angle=0;0 camera=4 energy=0.85243845 id=4 option=0 pos=-0.800000012;0.75;0 range=30 shield=0 type=PowerCell zoom=1;1;1
+CreateObject a1=0;110 a2=0;-100 a3=90;-70.0000076 a4=0;9 a5=0;-9 a6=0;8.9907071e-006 a7=0;120.000008;6.89807985e-006 a8=0;-120.000008;7.00807323e-006 angle=0;334.843048;0 bVirusActive=0 camera=FIX energy=1 id=3 land=1 motor=0;-0.353444099 option=0 p1=0;1.32500005;0 p2=1.25;0 p3=0.875;0 p4=0.375;0 p5=0.375;0 p6=0.425000012;0.75;0 p7=-0.449999988;0.75;-0.375 p8=-0.449999988;0.75;0.375 pos=53.4871864;27.75;3.48474336 programStorageIndex=2 range=30 reactorRange=0.97161907 run=1 scriptReadOnly1=0 scriptRunnable1=1 trainer=1 type=WingedGrabber zoom=1;1;1
+CreatePower angle=0;0 camera=4 energy=0.181438625 id=6 option=0 pos=-0.800000012;0.75;0 range=30 shield=0 type=PowerCell zoom=1;1;1
+CreateObject a1=0;35.0000038 a2=0;-95.0000076 a3=90;-27.0000019 a4=0;0.876998007 a5=0;-0.876998007 a6=0;0.000152834327;-141574.188 a7=0;179.999863;130642 a8=0;-0.000152834327;-141574.188 a9=0;180.000153;130642 angle=1.2078172;-1263.23242;7.01812124 bVirusActive=0 camera=FIX energy=1 id=5 motor=0;0 option=0 p1=0;1.32500005;0 p2=1.25;0 p3=0.875;0 p4=0.375;0 p5=0.375;0 p6=-0.75;0.25;-0.75 p7=-0.75;0.25;0.75 p8=0.5;0.25;-0.75 p9=0.5;0.25;0.75 pos=-18.2973385;28;40.0112991 programStorageIndex=3 range=30 run=1 scriptReadOnly1=0 scriptRunnable1=1 trainer=1 type=WheeledGrabber zoom=1;1;1
+CreatePower angle=0;0 camera=4 energy=0.75441128 id=8 option=0 pos=-0.800000012;0.75;0 range=30 shield=0 type=PowerCell zoom=1;1;1
+CreateObject a6=0;-4.00771361e-043 a7=0;120.000008;-4.82046672e-043 a8=0;-120.000008;-4.00771361e-043 angle=0;154.565933;0 bVirusActive=0 camera=ONBOARD energy=1 id=7 land=1 motor=0;0 option=0 p1=0;1.32500005;0 p6=0.425000012;0.75;0 p7=-0.449999988;0.75;-0.375 p8=-0.449999988;0.75;0.375 pos=-11.5033617;27.75;-5.47057915 programStorageIndex=4 range=30 reactorRange=1 scriptReadOnly1=0 scriptRunnable1=1 select=1 trainer=1 type=WingedShooter zoom=1;1;1
+CreateObject a2=-63;0 a3=-63;180;0 angle=0;0 camera=4 energy=1 id=9 option=0 p1=0;3.5;0 p2=0;2.875;0 p3=0;2.875;0 pos=-20;27.75;40 range=30 trainer=0 type=Converter zoom=1;1;1
+CreateObject a1=0;1.8345747;0 a2=0;-16.5732479;0 a3=0;14.7225971;0 a4=0;12.3051748;0 aBusy=0 aProgressTime=0 aProgressTotal=1 aTime=299.9953 aType=RedFlag angle=0;180;0 camera=4 energy=1 id=10 option=0 p1=0.0375000015;1.25;0 p2=0.197500005;0 p3=0.197500005;0 p4=0.197500005;0 pos=0;27.75;60 range=30 type=RedFlag zoom=1;1;1
+CreateObject a1=0;44038.043;0 aBusy=0 aExist=1 aPhase=5 aProgress=0.317260474 aProgressTime=0 aProgressTotal=1 aSpeed=0.5 aTime=299.9953 aType=TitaniumOre angle=0;135;0 camera=4 energy=1 id=11 option=0 p1=0;-0.00637197495;0 pos=50;32;110 range=30 trainer=0 type=Derrick zoom=1;1;1
+CreateObject aBusy=0 aProgressTime=0 aProgressTotal=1 aTime=299.9953 aType=PowerStation angle=0;135;0 camera=4 energy=1 id=13 option=0 pos=20;27.75;20 range=30 trainer=0 type=PowerStation zoom=1;1;1
+CreateObject angle=0;135;0 camera=4 energy=1 id=14 option=0 pos=25;27.75;20 range=30 shield=0 type=PowerCell zoom=1;1;1
+CreateObject a1=0;135 angle=0;135;0 camera=4 energy=1 id=15 option=0 p1=5;2.5;0 pos=60;27.75;10 range=30 trainer=0 type=NuclearPlant zoom=1;1;1
+CreateObject angle=0;284.400024;-0 camera=4 energy=1 id=16 option=0 pos=110;27.75;100 range=30 type=UraniumOre zoom=1;1;1
+CreateObject angle=-2.83749223;82.8000107;0.358602583 camera=4 energy=1 id=17 option=0 pos=90;28;-40 range=30 type=UraniumOre zoom=1;1;1
+CreateObject angle=0;201.600006;0 camera=4 energy=1 id=21 option=0 pos=13.6000004;27.684;67.0599976 range=30 type=Greenery5 zoom=1;1;1
+CreateObject angle=0;198.000015;0 camera=4 energy=1 id=22 option=0 pos=88.1100006;27.3150005;68.0299988 range=30 type=Greenery5 zoom=1;1;1
+CreateObject angle=0;248.400024;0 camera=4 energy=1 id=23 option=0 pos=44.4799995;27.75;57.5 range=30 type=Greenery5 zoom=1;1;1
+CreateObject angle=0;23.3999996;0 camera=4 energy=1 id=24 option=0 pos=-2.73000002;27.4665012;86.1299973 range=30 type=Greenery5 zoom=1;1;1
+CreateObject angle=0;133.199997;0 camera=4 energy=1 id=25 option=0 pos=34.3899994;27.1215;210.009995 range=30 type=Greenery5 zoom=1;1;1
+CreateObject angle=0;230.400009;0 camera=4 energy=1 id=26 option=0 pos=1.30999994;27.4440002;214.190002 range=30 type=Greenery5 zoom=1;1;1
+CreateObject angle=0;226.800018;0 camera=4 energy=1 id=27 option=0 pos=-37.4399986;27.3659992;205.380005 range=30 type=Greenery5 zoom=1;1;1
+CreateObject angle=0;46.7999992;0 camera=4 energy=1 id=28 option=0 pos=-42.6800003;27.477499;199.729996 range=30 type=Greenery5 zoom=1;1;1
+CreateObject angle=0;241.200012;0 camera=4 energy=1 id=29 option=0 pos=102.959999;27.2369995;95.6999969 range=30 type=Greenery6 zoom=1;1;1
+CreateObject angle=0;102.599998;0 camera=4 energy=1 id=30 option=0 pos=101.699997;27.5849991;148.289993 range=30 type=Greenery6 zoom=1;1;1
+CreateObject angle=0;302.399994;0 camera=4 energy=1 id=31 option=0 pos=24.5799999;27.5429993;210.860001 range=30 type=Greenery6 zoom=1;1;1
+CreateObject angle=0;257.399994;0 camera=4 energy=1 id=32 option=0 pos=-54.7400017;27.5480003;196.479996 range=30 type=Greenery6 zoom=1;1;1
+CreateObject angle=0;158.400009;0 camera=4 energy=1 id=33 option=0 pos=105.309998;27.2810001;112.169998 range=30 type=Greenery7 zoom=1;1;1
+CreateObject angle=0;138.600006;0 camera=4 energy=1 id=34 option=0 pos=68.9000015;27.3200016;190.149994 range=30 type=Greenery7 zoom=1;1;1
+CreateObject angle=0;64.8000031;0 camera=4 energy=1 id=35 option=0 pos=12.8299999;27.0945015;210.630005 range=30 type=Greenery7 zoom=1;1;1
+CreateObject angle=0;313.200012;0 camera=4 energy=1 id=36 option=0 pos=-49.25;27.4094982;197.979996 range=30 type=Greenery7 zoom=1;1;1
+CreateObject angle=0;313.200012;0 camera=4 energy=1 id=37 option=0 pos=96.8300018;28.1084995;-37.1699982 range=30 type=Greenery15 zoom=1;1;1
+CreateObject angle=0;163.800018;0 camera=4 energy=1 id=38 option=0 pos=102.900002;28.25;47.0400009 range=30 type=Greenery15 zoom=1;1;1
+CreateObject angle=0;0 camera=4 energy=1 id=39 option=0 pos=108.110001;28.5;50.6300011 range=30 type=Greenery16 zoom=1;1;1
+CreateObject angle=0;149.400009;0 camera=4 energy=1 id=40 option=0 pos=93.6900024;28.1844997;-43.2700005 range=30 type=Greenery16 zoom=1;1;1
+CreateObject angle=0;250.199997;0 camera=4 energy=1 id=41 option=0 pos=102.910004;28.2910004;53.7999992 range=30 type=Greenery17 zoom=1;1;1
+CreateObject angle=0;239.400024;0 camera=4 energy=1 id=42 option=0 pos=93.6900024;28.0949993;-36.9000015 range=30 type=Greenery17 zoom=1;1;1
+CreateObject angle=0;0 camera=4 energy=1 id=43 option=0 pos=98.4000015;28.2474995;-39.9500008 range=30 type=Greenery18 zoom=1;1;1
+CreateObject angle=0;309.600006;0 camera=4 energy=1 id=44 option=0 pos=105.830002;28.5;53.7999992 range=30 type=Greenery18 zoom=1;1;1
+CreateObject angle=0;54.0000038;0 camera=4 energy=1 id=45 option=0 pos=97.0199966;28.25;-43.0900002 range=30 type=Greenery19 zoom=1;1;1
+CreateObject angle=0;66.5999985;0 camera=4 energy=1 id=46 option=0 pos=106.400002;28.362999;47.2599983 range=30 type=Greenery19 zoom=1;1;1
+CreateObject angle=0;116.999992;0 camera=4 energy=1 id=47 option=0 pos=37.7400017;31.4350014;104.57 range=30 type=Greenery15 zoom=1;1;1
+CreateObject angle=0;340.200012;0 camera=4 energy=1 id=48 option=0 pos=64.2900009;28.5129986;97.1699982 range=30 type=Greenery15 zoom=1;1;1
+CreateObject angle=0;106.199997;0 camera=4 energy=1 id=49 option=0 pos=62.4900017;30.8329983;118.910004 range=30 type=Greenery15 zoom=1;1;1
+CreateObject angle=0;163.800018;0 camera=4 energy=1 id=50 option=0 pos=42.5499992;30.1880016;94.1200027 range=30 type=Greenery17 zoom=1;1;1
+CreateObject angle=0;257.399994;0 camera=4 energy=1 id=51 option=0 pos=53.2099991;27.8570023;89.6900024 range=30 type=Greenery17 zoom=1;1;1
+CreateObject angle=0;70.2000046;0 camera=4 energy=1 id=52 option=0 pos=42.4500008;32;117.150002 range=30 type=Greenery17 zoom=1;1;1
+CreateObject angle=0;207;0 camera=4 energy=1 id=53 option=0 pos=55.1500015;30.6599998;123.349998 range=30 type=Greenery18 zoom=1;1;1
+CreateObject angle=0;261.000031;0 camera=4 energy=1 id=54 option=0 pos=61.2400017;27.5979977;92.4599991 range=30 type=Greenery18 zoom=1;1;1
+CreateObject angle=0;194.400009;0 camera=4 energy=1 id=55 option=0 pos=67.1999969;29.5585003;106.589996 range=30 type=Greenery18 zoom=1;1;1
+CreateObject a1=-30.0000019;20.0000019 aBusy=0 aProgressTime=0 aProgressTotal=1 aTime=299.9953 aType=MegaStalk5 angle=0;97.2000046;0 camera=4 energy=1 id=56 option=0 p1=-1.25;7;-1 pos=149.059998;27.75;103.540001 range=30 type=MegaStalk5 z1=1.01071417;0.816544712;0.896555901 zoom=2;2;2
+CreateObject angle=0;255.599991;0 camera=4 energy=1 id=57 option=0 pos=141.020004;27.75;107.279999 range=30 type=MegaStalk0 zoom=2;2;2
+CreateObject angle=0;286.200012;0 camera=4 energy=1 id=58 option=0 pos=154.410004;27.75;114.470001 range=30 type=MegaStalk1 zoom=2;2;2
+CreateObject angle=0;201.600006;0 camera=4 energy=1 id=59 option=0 pos=142;27.75;90.9199982 range=30 type=MegaStalk2 zoom=2;2;2
+CreateObject angle=0;241.200012;0 camera=4 energy=1 id=60 option=0 pos=156.429993;27.75;96.0400009 range=30 type=MegaStalk0 zoom=2;2;2
+CreateObject angle=0;140.400009;0 camera=4 energy=1 id=61 option=0 pos=134.149994;27.75;96.3000031 range=30 type=Greenery10 zoom=1;1;1
+CreateObject angle=0;174.600021;0 camera=4 energy=1 id=62 option=0 pos=163.690002;28.1189995;96.6100006 range=30 type=Greenery10 zoom=1;1;1
+CreateObject angle=0;320.399994;0 camera=4 energy=1 id=63 option=0 pos=160.25;28.0125008;113.730003 range=30 type=Greenery10 zoom=1;1;1
+CreateObject angle=0;153.000015;0 camera=4 energy=1 id=64 option=0 pos=144.639999;27.7679996;113.459999 range=30 type=Greenery10 zoom=1;1;1
+CreateObject angle=0;216.000015;0 camera=4 energy=1 id=65 option=0 pos=138.770004;28.0224991;115.839996 range=30 type=Greenery12 zoom=1;1;1
+CreateObject angle=0;34.2000008;0 camera=4 energy=1 id=66 option=0 pos=158.350006;27.7504997;101.660004 range=30 type=Greenery12 zoom=1;1;1
+CreateObject angle=0;225.000015;0 camera=4 energy=1 id=67 option=0 pos=149.470001;27.75;114.580002 range=30 type=Greenery12 zoom=1;1;1
+CreateObject angle=0;248.400024;0 camera=4 energy=1 id=68 option=0 pos=140.029999;27.75;97.6100006 range=30 type=Greenery12 zoom=1;1;1
+CreateObject angle=0;135;0 camera=4 energy=1 id=69 option=0 pos=134.770004;27.7614994;110.300003 range=30 type=Greenery13 zoom=1;1;1
+CreateObject angle=0;243.000015;0 camera=4 energy=1 id=70 option=0 pos=149.130005;27.75;92.7799988 range=30 type=Greenery13 zoom=1;1;1
+CreateObject angle=0;198.000015;0 camera=4 energy=1 id=71 option=0 pos=155.539993;27.75;89.5299988 range=30 type=Greenery13 zoom=1;1;1
+CreateObject angle=0;201.600006;0 camera=4 energy=1 id=72 option=0 pos=157.369995;27.8684998;109.629997 range=30 type=Greenery14 zoom=1;1;1
+CreateObject angle=0;241.200012;0 camera=4 energy=1 id=73 option=0 pos=140.029999;27.75;102.330002 range=30 type=Greenery14 zoom=1;1;1
+CreateObject angle=0;214.200027;0 camera=4 energy=1 id=74 option=0 pos=132.610001;27.75;103.690002 range=30 type=Greenery14 zoom=1;1;1
+CreateObject angle=0;82.8000107;0 camera=4 energy=1 id=75 option=0 pos=148.610001;27.75;87.0699997 range=30 type=Greenery14 zoom=1;1;1
+CreateObject angle=0;0 camera=4 energy=1 id=76 option=0 pos=161.800003;28.0900002;104.870003 range=30 type=Greenery14 zoom=1;1;1
+CreateObject angle=0;205.199997;0 camera=4 energy=1 id=77 option=0 pos=11.6199999;27.1289997;-294.589996 range=30 type=Greenery5 zoom=1;1;1
+CreateObject angle=0;104.400002;0 camera=4 energy=1 id=78 option=0 pos=29.1399994;28.382;-298.5 range=30 type=Greenery6 zoom=1;1;1
+CreateObject angle=0;271.800018;0 camera=4 energy=1 id=79 option=0 pos=41.8100014;29.3479996;-303.339996 range=30 type=Greenery7 zoom=1;1;1
+CreateObject angle=0;259.200012;0 camera=4 energy=1 id=80 option=0 pos=35.1300011;28.7625008;-300.119995 range=30 type=Greenery15 zoom=1;1;1
+CreateObject angle=0;338.399994;0 camera=4 energy=1 id=81 option=0 pos=20.1499996;27.2945023;-296.429993 range=30 type=Greenery17 zoom=1;1;1
+CreateObject angle=0;115.200005;0 camera=4 energy=1 id=82 option=0 pos=3.01999998;27.7709999;-296.839996 range=30 type=Greenery19 zoom=1;1;1
+CreateObject angle=0;178.200012;0 camera=4 energy=1 id=83 option=0 pos=40.4300003;29.3145008;-307.029999 range=30 type=Greenery16 zoom=1;1;1
+CreateObject angle=0;113.400009;0 camera=4 energy=1 id=84 option=0 pos=-45.5099983;27.329998;197.899994 range=30 type=Greenery15 zoom=1;1;1
+CreateObject angle=0;100.800003;0 camera=4 energy=1 id=85 option=0 pos=4.4000001;27.4440002;78.6600037 range=30 type=Greenery15 zoom=1;1;1
+CreateObject angle=0;106.199997;0 camera=4 energy=1 id=86 option=0 pos=68.4100037;27.5669994;56.2200012 range=30 type=Greenery19 zoom=1;1;1
+CreateObject angle=0;194.400009;0 camera=4 energy=1 id=87 option=0 pos=34.5600014;27.75;58.8400002 range=30 type=Greenery18 zoom=1;1;1
+CreateObject angle=0;295.200012;0 camera=4 energy=1 id=88 option=0 pos=104.730003;27.5380001;131.029999 range=30 type=Greenery16 zoom=1;1;1
+CreateObject angle=0;246.600021;0 camera=4 energy=1 id=89 option=0 pos=97.2300034;27.3835011;76.5199966 range=30 type=Greenery18 zoom=1;1;1
+CreateObject angle=0;244.800018;0 camera=4 energy=1 id=90 option=0 pos=-59.5200005;29.7805004;82.1900024 range=30 type=MegaStalk0 zoom=2;2;2
+CreateObject angle=0;214.200027;0 camera=4 energy=1 id=91 option=0 pos=160.679993;36.6819992;-86.9700012 range=30 type=MegaStalk3 zoom=2;2;2
+CreateObject angle=0;135;0 camera=4 energy=1 id=92 option=0 pos=189.220001;38.7890015;-27.7000008 range=30 type=MegaStalk4 zoom=2;2;2
+CreateObject angle=0;241.200012;0 camera=4 energy=1 id=93 option=0 pos=15.6899996;35.9145012;-96.7099991 range=30 type=MegaStalk2 zoom=2;2;2
+CreateObject angle=0;41.4000053;0 camera=4 energy=1 id=94 option=0 pos=-80.25;38.4874992;-10.4099998 range=30 type=MegaStalk3 zoom=2;2;2
+CreateObject angle=0;230.400009;0 camera=4 energy=1 id=95 option=0 pos=-77.3600006;38.9609985;2.8599999 range=30 type=MegaStalk1 zoom=2;2;2
+CreateObject angle=0;264.600037;0 camera=4 energy=1 id=96 option=0 pos=116.169998;36.8084984;-132.119995 range=30 type=MegaStalk3 zoom=2;2;2
+CreateObject a1=-30.0000019;20.0000019 aBusy=0 aProgressTime=0 aProgressTotal=1 aTime=299.9953 aType=MegaStalk5 angle=0;273.600006;0 camera=4 energy=1 id=97 option=0 p1=-1.25;7;-1 pos=11.5799999;28.75;156.960007 range=30 type=MegaStalk5 z1=1.01071417;0.816544712;0.896555901 zoom=2;2;2
+CreateObject angle=0;50.4000015;0 camera=4 energy=1 id=98 option=0 pos=13.9899998;28.5739994;168.520004 range=30 type=MegaStalk0 zoom=2;2;2
+CreateObject angle=0;235.799988;0 camera=4 energy=1 id=99 option=0 pos=4.63999987;28.6879997;165.309998 range=30 type=MegaStalk0 zoom=2;2;2
+CreateObject angle=0;203.400009;0 camera=4 energy=1 id=100 option=0 pos=-0.180000007;28.6280003;148.960007 range=30 type=MegaStalk0 zoom=2;2;2
+CreateObject angle=0;0 camera=4 energy=1 id=101 option=0 pos=7.09000015;28.2275009;147.160004 range=30 type=MegaStalk0 zoom=2;2;2
+CreateObject angle=0;126;0 camera=4 energy=1 id=102 option=0 pos=23.4500008;28.5820007;158.320007 range=30 type=MegaStalk0 zoom=2;2;2
+CreateObject angle=0;133.199997;0 camera=4 energy=1 id=103 option=0 pos=21.3299999;28.6735001;165.199997 range=30 type=MegaStalk0 zoom=2;2;2
+CreateObject angle=0;261.000031;0 camera=4 energy=1 id=104 option=0 pos=-0.560000002;28.75;156.899994 range=30 type=MegaStalk0 zoom=2;2;2
+CreateObject angle=0;261.000031;0 camera=4 energy=1 id=105 option=0 pos=-103.669998;29.6329994;63.0800018 range=30 type=Greenery10 zoom=1;1;1
+CreateObject angle=0;262.800018;0 camera=4 energy=1 id=106 option=0 pos=-103.080002;29.7750015;54.5 range=30 type=Greenery13 zoom=1;1;1
+CreateObject angle=0;223.200012;0 camera=4 energy=1 id=107 option=0 pos=-95.9800034;30.2010002;61.0099983 range=30 type=Greenery14 zoom=1;1;1
+CreateObject angle=0;167.400009;0 camera=4 energy=1 id=108 option=0 pos=-112.550003;29.4640007;60.7200012 range=30 type=Greenery12 zoom=1;1;1
+CreateObject angle=0;111.600006;0 camera=4 energy=1 id=109 option=0 pos=-109.589996;30.2705002;50.9500008 range=30 type=Greenery11 zoom=1;1;1
+CreateObject angle=0;135;0 camera=4 energy=1 id=110 option=0 pos=-96.5699997;29.75;53.9099998 range=30 type=Greenery12 zoom=1;1;1
+CreateObject angle=0;154.800003;0 camera=4 energy=1 id=111 option=0 pos=-102.190002;30.1555004;45.9199982 range=30 type=Greenery13 zoom=1;1;1
+CreateObject angle=0;111.600006;0 camera=4 energy=1 id=112 option=0 pos=-93.9100037;29.9714985;57.7599983 range=30 type=Greenery11 zoom=1;1;1
+CreateObject angle=0;75.5999985;0 camera=4 energy=1 id=113 option=0 pos=-108.110001;29.5825005;58.3499985 range=30 type=Greenery10 zoom=1;1;1
+CreateObject angle=0;216.000015;0 camera=4 energy=1 id=114 option=0 pos=-95.7900009;29.7370014;48.9500008 range=30 type=Greenery11 zoom=1;1;1
+CreateObject angle=0;277.200012;0 camera=4 energy=1 id=115 option=0 pos=-99.5400009;29.8310013;66.9199982 range=30 type=Greenery10 zoom=1;1;1
+CreateObject angle=0;0 camera=4 energy=1 id=116 option=0 pos=-112.410004;30.0029984;55.1199989 range=30 type=Greenery13 zoom=1;1;1
+CreateObject angle=0;239.400024;0 camera=4 energy=1 id=117 option=0 pos=-108.660004;29.2950001;65.4400024 range=30 type=Greenery14 zoom=1;1;1
+CreateObject angle=0;333.000031;0 camera=4 energy=1 id=118 option=0 pos=-104.639999;30.4640007;49.7599983 range=30 type=Greenery12 zoom=1;1;1
+CreateObject angle=0;219.600006;0 camera=4 energy=1 id=119 option=0 pos=-91.7699966;29.5004997;53.2400017 range=30 type=Greenery10 zoom=1;1;1
+CreateObject angle=0;315.000031;0 camera=4 energy=1 id=120 option=0 pos=-100.610001;29.9025002;59.2700005 range=30 type=Greenery11 zoom=1;1;1
+CreateObject angle=0;252;0 camera=4 energy=1 id=121 option=0 pos=-97.8000031;29.789999;44.7999992 range=30 type=Greenery13 zoom=1;1;1
+CreateObject angle=0;331.200043;0 camera=4 energy=1 id=122 option=0 pos=-91.5;29.4660015;48.6800003 range=30 type=Greenery14 zoom=1;1;1
+CreateObject angle=0;79.2000046;0 camera=4 energy=1 id=123 option=0 pos=-92.4400024;29.5505009;43.9900017 range=30 type=Greenery12 zoom=1;1;1
+CreateObject angle=0;79.2000046;0 camera=4 energy=1 id=124 option=0 pos=-107.449997;30.348999;45.4700012 range=30 type=Greenery12 zoom=1;1;1
+CreateObject angle=0;250.199997;0 camera=4 energy=1 id=125 option=0 pos=-101.419998;30.0709991;41.4500008 range=30 type=Greenery10 zoom=1;1;1
+CreateObject angle=0;237.600021;0 camera=4 energy=1 id=126 option=0 pos=-95.7900009;29.7894993;40.1100006 range=30 type=Greenery11 zoom=1;1;1
+CreateObject angle=0;304.200012;0 camera=4 energy=1 id=127 option=0 pos=-88.1500015;29.4309998;44.5299988 range=30 type=Greenery13 zoom=1;1;1
+CreateObject angle=0;63;0 camera=4 energy=1 id=128 option=0 pos=-89.2200012;29.8710003;38.3600006 range=30 type=Greenery11 zoom=1;1;1
+CreateObject angle=0;0 camera=4 energy=1 id=129 option=0 pos=-85.3300018;29.5045013;40.2400017 range=30 type=Greenery10 zoom=1;1;1
+CreateObject angle=0;77.4000015;0 camera=4 energy=1 id=130 option=0 pos=-92.9700012;30.1844997;34.8800011 range=30 type=Greenery14 zoom=1;1;1
+CreateObject angle=0;102.599998;0 camera=4 energy=1 id=131 option=0 pos=-99.5400009;30.1355;37.2900009 range=30 type=Greenery13 zoom=1;1;1
+CreateObject angle=0;232.200012;0 camera=4 energy=1 id=132 option=0 pos=21.25;28.4850006;-54.7000008 range=30 type=Greenery15 zoom=1;1;1
+CreateObject angle=0;298.800018;0 camera=4 energy=1 id=133 option=0 pos=26.4899998;28.4535007;-54.0699997 range=30 type=Greenery16 zoom=1;1;1
+CreateObject angle=0;268.200012;0 camera=4 energy=1 id=134 option=0 pos=24.0599995;28.5;-57.7999992 range=30 type=Greenery17 zoom=1;1;1
+CreateObject angle=0;23.3999996;0 camera=4 energy=1 id=135 option=0 pos=28.1200008;28.5;-58.2299995 range=30 type=Greenery18 zoom=1;1;1
+CreateObject angle=0;138.600006;0 camera=4 energy=1 id=136 option=0 pos=21.3400002;28.7049999;-60.2200012 range=30 type=Greenery19 zoom=1;1;1
+CreateObject angle=0;63;0 camera=4 energy=1 id=137 option=0 pos=25.1900005;28.5914993;-61.0099983 range=30 type=Greenery17 zoom=1;1;1
+CreateObject angle=0;282.600006;0 camera=4 energy=1 id=138 option=0 pos=-29.0200005;28.1879997;-43.7599983 range=30 type=Greenery15 zoom=1;1;1
+CreateObject angle=0;324;0 camera=4 energy=1 id=139 option=0 pos=-25.6800003;28.4159985;-46.6599998 range=30 type=Greenery16 zoom=1;1;1
+CreateObject angle=0;216.000015;0 camera=4 energy=1 id=140 option=0 pos=-31.9799995;28.4589996;-46.0999985 range=30 type=Greenery17 zoom=1;1;1
+CreateObject angle=0;124.200012;0 camera=4 energy=1 id=141 option=0 pos=-31.1000004;28.7679996;-50.3600006 range=30 type=Greenery18 zoom=1;1;1
+CreateObject angle=0;46.7999992;0 camera=4 energy=1 id=142 option=0 pos=-26.8500004;28.7729988;-50.4599991 range=30 type=Greenery19 zoom=1;1;1
+CreateObject angle=0;275.399994;0 camera=4 energy=1 id=143 option=0 pos=117.18;28;14.2299995 range=30 type=Greenery15 zoom=1;1;1
+CreateObject angle=0;70.2000046;0 camera=4 energy=1 id=144 option=0 pos=116.760002;28;4.48000002 range=30 type=Greenery16 zoom=1;1;1
+CreateObject angle=0;0 camera=4 energy=1 id=145 option=0 pos=120.709999;27.9915009;9.46000004 range=30 type=Greenery17 zoom=1;1;1
+CreateObject angle=0;180;0 camera=4 energy=1 id=146 option=0 pos=112.610001;28.1194992;9.86999989 range=30 type=Greenery18 zoom=1;1;1
+CreateObject angle=0;228.600006;0 camera=4 energy=1 id=147 option=0 pos=116.559998;28;9.67000008 range=30 type=Greenery19 zoom=1;1;1
+CreateObject angle=0;133.199997;0 camera=4 energy=1 id=148 option=0 pos=113.309998;28.0699997;6.4000001 range=30 type=Greenery15 zoom=1;1;1
+CreateObject angle=0;318.600006;0 camera=4 energy=1 id=149 option=0 pos=120.849998;27.9575005;13.6300001 range=30 type=Greenery15 zoom=1;1;1
+CreateObject angle=0;37.7999992;0 camera=4 energy=1 id=150 option=0 pos=120.540001;28;5.94000006 range=30 type=Greenery15 zoom=1;1;1
+CreateObject angle=0;233.999985;0 camera=4 energy=1 id=151 option=0 pos=112.699997;28;14.8599997 range=30 type=Greenery15 zoom=1;1;1
+CreateObject angle=0;216.000015;0 camera=4 energy=1 id=152 option=0 pos=-40.5999985;27.5639992;203.139999 range=30 type=Greenery17 zoom=1;1;1
+CreateObject angle=0;113.400009;0 camera=4 energy=1 id=153 option=0 pos=7.8499999;27.5550003;213.699997 range=30 type=Greenery17 zoom=1;1;1
+CreateObject angle=0;70.2000046;0 camera=4 energy=1 id=154 option=0 pos=29.1299992;27.9445;210.630005 range=30 type=Greenery19 zoom=1;1;1
+CreateObject angle=0;255.599991;0 camera=4 energy=1 id=155 option=0 pos=20.3199997;27.2434998;211.410004 range=30 type=Greenery15 zoom=1;1;1
+CreateObject angle=0;153.000015;0 camera=4 energy=1 id=156 option=0 pos=71.4800034;27.2334995;192.270004 range=30 type=Greenery15 zoom=1;1;1
+CreateObject angle=0;133.199997;0 camera=4 energy=1 id=157 option=0 pos=73.3600006;27.3740005;187.059998 range=30 type=Greenery16 zoom=1;1;1
+CreateObject angle=0;208.800003;0 camera=4 energy=1 id=158 option=0 pos=-11.3000002;28.227499;160.270004 range=30 type=Greenery17 zoom=1;1;1
+CreateObject angle=0;108.000008;0 camera=4 energy=1 id=159 option=0 pos=-58.5200005;28.0720005;157.080002 range=30 type=Greenery6 zoom=1;1;1
+CreateObject angle=0;322.200012;0 camera=4 energy=1 id=160 option=0 pos=-94.7099991;28.75;156.25 range=30 type=Greenery7 zoom=1;1;1
+CreateObject angle=0;45;0 camera=4 energy=1 id=161 option=0 pos=-74.2699966;28.5459995;160.669998 range=30 type=Greenery15 zoom=1;1;1
+CreateObject angle=0;212.399994;0 camera=4 energy=1 id=162 option=0 pos=-175.649994;27.7080002;130.839996 range=30 type=Greenery17 zoom=1;1;1
+CreateObject angle=0;286.200012;0 camera=4 energy=1 id=163 option=0 pos=-160.729996;27.6595001;136.080002 range=30 type=Greenery19 zoom=1;1;1
+CreateObject angle=0;116.999992;0 camera=4 energy=1 id=164 option=0 pos=-124.349998;27.4865017;180.380005 range=30 type=Greenery15 zoom=1;1;1
+CreateObject angle=0;225.000015;0 camera=4 energy=1 id=165 option=0 pos=-116.25;27.3735008;182.490005 range=30 type=Greenery18 zoom=1;1;1
+CreateObject angle=0;36;0 camera=4 energy=1 id=166 option=0 pos=-88.9100037;27.8945007;291.609985 range=30 type=Greenery5 zoom=1;1;1
+CreateObject angle=0;124.200012;0 camera=4 energy=1 id=167 option=0 pos=-89.4599991;27.507;278.899994 range=30 type=Greenery7 zoom=1;1;1
+CreateObject angle=0;288;0 camera=4 energy=1 id=168 option=0 pos=-53.5499992;27.4249992;277.799988 range=30 type=Greenery6 zoom=1;1;1
+CreateObject angle=0;160.199997;0 camera=4 energy=1 id=169 option=0 pos=-50.2299995;27.274498;273.649994 range=30 type=Greenery17 zoom=1;1;1
+CreateObject angle=0;122.400009;0 camera=4 energy=1 id=170 option=0 pos=103.080002;25.2660046;223.100006 range=30 type=Greenery5 zoom=1;1;1
+CreateObject angle=0;217.800003;0 camera=4 energy=1 id=171 option=0 pos=95.1600037;27.5460014;228.460007 range=30 type=Greenery16 zoom=1;1;1
+CreateObject angle=0;318.600006;0 camera=4 energy=1 id=172 option=0 pos=168.279999;27.75;206.25 range=30 type=Greenery18 zoom=1;1;1
+CreateObject angle=0;120.600006;0 camera=4 energy=1 id=173 option=0 pos=160.539993;27.75;204.589996 range=30 type=Greenery16 zoom=1;1;1
+CreateObject angle=0;230.400009;0 camera=4 energy=1 id=174 option=0 pos=175.729996;28.0025005;204.320007 range=30 type=Greenery19 zoom=1;1;1
+CreateObject angle=0;151.199997;0 camera=4 energy=1 id=175 option=0 pos=-278.600006;32.9090004;-37.7400017 range=30 type=Greenery15 zoom=1;1;1
+CreateObject angle=0;295.200012;0 camera=4 energy=1 id=176 option=0 pos=-274.470001;33.0200005;-49.6699982 range=30 type=Greenery18 zoom=1;1;1
+CreateObject angle=0;106.199997;0 camera=4 energy=1 id=177 option=0 pos=-290.059998;32.1450005;-62.0499992 range=30 type=Greenery16 zoom=1;1;1
+CreateObject angle=0;23.3999996;0 camera=4 energy=1 id=178 option=0 pos=-279.529999;32.6915016;-55.7400017 range=30 type=Greenery5 zoom=1;1;1
+CreateObject angle=-0;225.043182;-0 camera=4 energy=-1 id=179 option=0 pos=1.86433172;27.75;56.2043457 range=30 type=TitaniumOre zoom=1;1;1
+CreateObject angle=-0;584.790222;-0 camera=4 energy=-1 id=180 option=0 pos=-3.80020213;27.75;61.853878 range=30 type=TitaniumOre zoom=1;1;1
+CreateObject angle=0;156.982101;0 camera=4 energy=-1 id=182 option=0 pos=1.6644088;27.75;-3.9176991 range=30 shield=0 type=Titanium zoom=1;1;1
+CreateObject angle=-0;584.784912;-0 camera=4 energy=-1 id=183 option=0 pos=-4.51016617;27.75;62.5579414 range=30 type=TitaniumOre zoom=1;1;1
+CreateObject angle=0;584.753784;0 camera=4 energy=-1 id=185 option=0 pos=-5.2217164;27.75;63.2595406 range=30 type=TitaniumOre zoom=1;1;1
+CreateObject angle=0;-203.06543;-0 camera=4 energy=-1 id=186 option=0 pos=1.42224312;27.75;-0.787181497 range=30 shield=0 type=Titanium zoom=1;1;1
+CreateObject angle=0;584.764709;0 camera=4 energy=-1 id=188 option=0 pos=-5.93110275;27.75;63.9647179 range=30 type=TitaniumOre zoom=1;1;1
+CreateObject angle=0;-563.080994;-0 camera=4 energy=-1 id=189 option=0 pos=2.34245205;27.75;-0.394875318 range=30 shield=0 type=Titanium zoom=1;1;1
+CreateObject angle=0;-1173.23242;0 camera=4 energy=-1 id=190 option=0 pos=-19.7594547;28;39.9196167 range=30 type=TitaniumOre zoom=1;1;1
+CreateObject angle=0;135;-0 camera=4 energy=-1 id=191 option=0 pos=48.7625618;32;108.762566 range=30 type=TitaniumOre zoom=1;1;1
+CreateObject angle=0;-923.084351;-0 camera=4 energy=-1 id=192 option=0 pos=3.26260304;27.75;-0.00313185528 range=30 shield=0 type=Titanium zoom=1;1;1

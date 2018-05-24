@@ -1,0 +1,23 @@
+extern void object::Wspolpraca()
+{
+	Kills();
+	Return();
+}
+
+void Kills() {
+	while (true) {
+		object item = radar(AlienSpider);
+		if (item != null) {
+			goto(item.position,10);
+		}
+		else {
+			break;
+		}
+	}
+}
+
+void Return() {
+	object item = radar(BlueFlag);
+	goto(item.position);
+	move(13);
+}
